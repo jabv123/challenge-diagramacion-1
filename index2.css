@@ -26,9 +26,9 @@ main {
     padding: 2px;
     border-radius: 3px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    border: none; /* Elimina el borde */
-    max-width: 400px; /* Limita el ancho máximo del elemento */
-    margin: 0 auto; /* Centra el elemento en la página */
+    border: none;
+    max-width: 400px; 
+    margin: 0 auto; 
 }
 
 
